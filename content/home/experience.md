@@ -4,7 +4,7 @@ date_format: Jan 2006
 experience:
   - title: CEO
     company: JPMorgan Chase & Co
-    company_url: "https://www.jpmorganchase.com/"
+    company_url: ""
     company_logo: org-gc
     location: Bournemouth, UK
     date_start: 2020-07
