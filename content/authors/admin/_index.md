@@ -1,6 +1,6 @@
 ---
 title: Dan Ley
-role: Research Assistant \nMEng Explainable AI
+role: MEng Explainable AI
 avatar_filename: avatar.jpg
 bio: My research interests include explainable/interpretable AI, deep learning
   and software engineering.
