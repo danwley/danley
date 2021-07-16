@@ -39,8 +39,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Welcome. I'm a recent graduate of the Cambridge MEng, currently working as a research assistant under the direction of my supervisors [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research has been centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI.
+I'm a recent graduate of the Cambridge MEng, currently working as a research assistant under the direction of my supervisors [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research has been centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI.
 
-Outside of work I'm a regular footballer for the university, and enjoy long distance running or weightlifting as part of my schedule.
+Outside of work I'm a regular footballer for the university, and enjoy long distance running or weightlifting as part of my week.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume - Dan Ley.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.
