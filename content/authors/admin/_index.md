@@ -29,7 +29,7 @@ organizations:
     url: https://www.cam.ac.uk/
 education:
   courses:
-    - course: "[MPhil in Machine Learning](https://www.mlmi.eng.cam.ac.uk/)"
+    - course: MPhil in Machine Learning
       institution: University of Cambridge
       year: 2022
     - course: MEng in Explainable AI
@@ -39,8 +39,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome. I'm a recent graduate of the Cambridge MEng, currently working as a research assistant under the direction of my supervisors [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research has been centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Outside of work I'm a regular footballer for the university, and enjoy long distance running or weightlifting as part of my schedule.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume - Dan Ley.pdf" "newtab" >}}resumé{{< /staticref >}}.
