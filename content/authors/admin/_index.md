@@ -43,4 +43,4 @@ Welcome. I'm a recent graduate of the Cambridge MEng, currently working as a res
 
 Outside of work I'm a regular footballer for the university, and enjoy long distance running or weightlifting as part of my schedule.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume - Dan Ley.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume - Dan Ley.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.
