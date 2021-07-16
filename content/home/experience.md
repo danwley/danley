@@ -7,7 +7,7 @@ experience:
     company_url: ""
     company_logo: org-gc
     location: Bournemouth, UK
-    date_start: 2020-07
+    date_start: 2020-07-20
     date_end: ""
     description: |-2
         Responsibilities include:
