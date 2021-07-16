@@ -1,6 +1,6 @@
 ---
 title: Dan Ley
-role: Research Assistant | MEng Explainable AI
+role: Research Assistant \nMEng Explainable AI
 avatar_filename: avatar.jpg
 bio: My research interests include explainable/interpretable AI, deep learning
   and software engineering.
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/dan-ley/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cambridge
+    url: https://www.cam.ac.uk/
 education:
   courses:
     - course: MPhil in Machine Learning
