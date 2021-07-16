@@ -29,7 +29,7 @@ organizations:
     url: https://www.cam.ac.uk/
 education:
   courses:
-    - course: "[MPhil in Machine Learning[(https://www.mlmi.eng.cam.ac.uk/)"
+    - course: "[MPhil in Machine Learning](https://www.mlmi.eng.cam.ac.uk/)"
       institution: University of Cambridge
       year: 2022
     - course: MEng in Explainable AI
