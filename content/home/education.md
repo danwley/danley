@@ -1,5 +1,5 @@
 ---
-widget: experience
+widget: education
 date_format: Jan 2006
 experience:
   - title: Research Assistant
@@ -34,10 +34,10 @@ experience:
         
         * Co-inventor on 3 separate pending patent applications for arithmetic hardware designs with improved PPA (Power, Performance, Area) over industry standards; worked with the datapath team in an R&D environment
         * Learnt to rapidly interpret code from past/current team members and make changes (Linux, Python, Perforce, VHDL)
-widget_id: Experience
+widget_id: Education
 headless: true
-weight: 40
-title: Experience
+weight: 50
+title: Education
 subtitle: null
 design:
   columns: "2"
