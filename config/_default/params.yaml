@@ -20,16 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: d.w.ley at hotmail dot com
+email: d.w.ley at hotmail.com
 phone: +44 7522 105139
 address:
   street: Corpus Christi College, Trumpington St
   city: Cambridge
-  region: Cambrideshire
   postcode: CB2 1RH
   country: United Kingdom
   country_code: UK
-directions: Hand post to the porters lodge at the main entrance
 contact_links:
   - icon: linkedin
     icon_pack: fab
@@ -42,7 +40,7 @@ contact_links:
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'skype:live:d.w.ley?call'
 
 # Site header
 
