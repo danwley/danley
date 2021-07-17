@@ -32,7 +32,7 @@ experience:
         
         * 4A*s: Mathematics, Furthermathematics, Physics and Chemistry
         * College Award for Academic Excellence in Mathematics
-        * Senior Team Mathematics Challenge Regional Final Winners and National Final Competitors
+        * Senior Team Mathematics Challenge Regional Winners and National Final Competitors
         * British Mathematical Olympiad Qualification through Senior Mathematical Challenge
   - title: GCSEs (13 A\*s)
     company: Queen Elizabeth's School
