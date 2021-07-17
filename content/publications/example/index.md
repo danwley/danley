@@ -32,7 +32,7 @@ publication_short: In *ICLR Workshop on Security and Safety in Machine Learning 
 abstract: S
 
 # Summary. An optional shortened abstract.
-summary: To interpret uncertainty estimates, we extend recent work that generates Counterfactual Latent Uncertainty Explanations (CLUEs)
+summary: To interpret uncertainty estimates, we extend recent work that generates Counterfactual Latent Uncertainty Explanations (CLUEs), to produce a set of plausible CLUEs
 
 tags: []
 
