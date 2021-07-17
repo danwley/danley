@@ -6,12 +6,14 @@ experience:
     company: University of Cambridge
     company_url: "https://www.cam.ac.uk/"
     company_logo: org-uoc
-    location: Cambridge, UK (Work From Home)
+    location: Cambridge, Cambridgeshire, UK (Work From Home)
     date_start: 2020-06-28
     date_end: ""
     description: |-2
         
-        * CLUE
+        * Continuation of MEng research on explaining uncertainty in deep learning
+        * Training models in PyTorch for generation of counterfactual explanations
+        * Finalising ICLR/ICML/NeurIPS submissions
   - title: Software Engineer Intern
     company: JPMorgan Chase & Co
     company_url: "https://www.jpmorganchase.com/"
