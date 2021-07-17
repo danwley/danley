@@ -7,27 +7,27 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 30
 
-title: Languages
+title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
+- description: 40%
+  icon: hk
+  icon_pack: custom
+  name: Cantonese
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: English
+- description: 30%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Spanish
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
