@@ -32,7 +32,7 @@ publication_short: In *ICLR Workshop on Security and Safety in Machine Learning 
 abstract: S
 
 # Summary. An optional shortened abstract.
-summary: S
+summary: To interpret uncertainty estimates, we extend recent work that generates Counterfactual Latent Uncertainty Explanations (CLUEs), to produce a set of plausible CLUEs: multiple, diverse inputs that are within a δ ball of the original input in latent space, all yielding confident predictions.
 
 tags: []
 
