@@ -1,9 +1,9 @@
 ---
 widget: about
-widget_id: Introduction
+widget_id: Welcome!
 headless: true
 weight: 20
-title: Introduction
+title: Welcome!
 active: true
 author: admin
 ---
