@@ -12,4 +12,4 @@ main:
     weight: 20
   - name: CV
     url: 'uploads/CV_Dan_Ley.pdf'
-    weight: -10
+    weight: 1000
