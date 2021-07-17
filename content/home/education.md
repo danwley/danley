@@ -36,7 +36,7 @@ experience:
         * British Mathematical Olympiad Qualification through Senior Mathematical Challenge
   - title: GCSEs (13 A\*s)
     company: Queen Elizabeth's School
-    company_url: "https://www.imaginationtech.com/"
+    company_url: "https://www.qe.devon.sch.uk/"
     company_logo: org-qe
     location: Crediton, Devon, UK
     date_start: 2010-09-01
