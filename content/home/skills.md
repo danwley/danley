@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: "hk.svg"
+- icon: "hk"
   icon_pack: "custom"
   name: "Cantonese"
-  description: "40%"
-- description: 100%
+  description: "Passive Fluency"
+- description: Full Fluency
   icon: chart-line
   icon_pack: fas
   name: English
-- description: 30%
+- description: Level B2
   icon: camera-retro
   icon_pack: fas
   name: Spanish
