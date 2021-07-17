@@ -2,16 +2,23 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Research Assistant
+  - title: MEng
     company: University of Cambridge
     company_url: "https://www.cam.ac.uk/"
     company_logo: org-uoc
     location: Cambridge, UK (Work From Home)
-    date_start: 2020-06-28
-    date_end: ""
-    description: |-2
+    date_start: 2017-10-01
+    date_end: 2021-07-01
+    description: |-8
         
-        * CLUE
+        * Masters project in Explainable AI
+        * 1st paper accepted to ICLR workshops (first-author)
+        * 2nd paper accepted to ICML workshops (first-author)
+        * Specialisation of Computer and Information Engineering
+        * Dewhurst Scholarship for First and Second Year Results
+        * 4th Year: Honours Pass with Distinction
+        * 2nd Year: Class I (83%, 12th of 310)
+        * 1st Year: Class I (87%, 12th of 324)
   - title: Software Engineer Intern
     company: JPMorgan Chase & Co
     company_url: "https://www.jpmorganchase.com/"
