@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2104.06323.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: '../../posters/δ-CLUE-Poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
