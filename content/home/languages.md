@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Skills
+title: Languages
 subtitle:
 
 # Showcase personal skills or business features.
@@ -21,25 +21,19 @@ feature:
   name: "Cantonese"
   description: "Passive Fluency"
 - description: Full Fluency
-  icon: chart-line
-  icon_pack: fas
+  icon: hk
+  icon_pack: custom
   name: English
 - description: Level B2
-  icon: camera-retro
-  icon_pack: fas
+  icon: es
+  icon_pack: custom
   name: Spanish
-
-# Uncomment to use emoji icons.
-- icon: ":smile:"
-  icon_pack: "emoji"
-  name: "Emojiness"
-  description: "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-- icon: hk
-  icon_pack: custom
-  name: "Surfing"
-  description: "90%"
+#- icon: hk
+#  icon_pack: custom
+#  name: "Surfing"
+#  description: "90%"
 ---
