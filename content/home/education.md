@@ -21,7 +21,7 @@ experience:
         * 3rd Year: Pass (COVID/No Classing)
         * 2nd Year: Class I (83%, 12th of 310)
         * 1st Year: Class I (87%, 12th of 324)
-  - title: A Levels
+  - title: A Levels (4A\*s)
     company: Exeter Mathematics School
     company_url: "http://www.exetermathematicsschool.ac.uk/"
     company_logo: org-ems
@@ -34,7 +34,7 @@ experience:
         * College Award for Academic Excellence in Mathematics
         * Senior Team Mathematics Challenge Regional Final Winners and National Final Competitors
         * British Mathematical Olympiad Qualification through Senior Mathematical Challenge
-  - title: GCSEs
+  - title: GCSEs (13 A\*s)
     company: Queen Elizabeth's School
     company_url: "https://www.imaginationtech.com/"
     company_logo: org-qe
