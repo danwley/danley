@@ -43,4 +43,4 @@ I'm a recent graduate of the Cambridge MEng, currently working as a research ass
 
 Outside of work I'm a regular footballer for the university, and enjoy long distance running or working out as part of my week.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Dan_Ley.pdf" "newtab" >}}CV{{< /staticref >}} for more details.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Dan_Ley.pdf" "newtab" >}}CV{{< /staticref >}} for further details.
