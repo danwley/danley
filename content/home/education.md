@@ -9,7 +9,7 @@ experience:
     location: Cambridge, UK (Work From Home)
     date_start: 2017-10-01
     date_end: 2021-07-01
-    description: |-8
+    description: |-2
         
         * Masters project in Explainable AI
         * 1st paper accepted to ICLR workshops (first-author)
