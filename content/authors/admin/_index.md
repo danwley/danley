@@ -39,7 +39,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I'm a recent graduate of the Cambridge MEng, currently working as a research assistant under the direction of my supervisors [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research has been centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI.
+Welcome! I'm a recent graduate of the Cambridge MEng, currently working as a research assistant under the direction of my supervisors [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research has been centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI.
 
 Outside of work I'm a regular footballer for the university, and enjoy long distance running or working out as part of my week.
 
