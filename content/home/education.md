@@ -22,7 +22,7 @@ experience:
   - title: Software Engineer Intern
     company: JPMorgan Chase & Co
     company_url: "https://www.jpmorganchase.com/"
-    company_logo: org-gc
+    company_logo: org-ems
     location: Bournemouth, Dorset, UK (Work From Home)
     date_start: 2020-07-20
     date_end: 2020-08-21
