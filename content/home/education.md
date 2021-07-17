@@ -7,7 +7,7 @@ experience:
     company_url: "http://www.eng.cam.ac.uk/"
     company_logo: org-uoc
     location: Cambridge, Cambridgeshire, UK
-    date_start: 2017-10-01
+    date_start: 2017-09-28
     date_end: 2021-07-01
     description: |-2
         
