@@ -17,5 +17,6 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: 'uploads/CV_Dan_Ley.pdf'{:target="_blank"}
+    url: 'uploads/CV_Dan_Ley.pdf'
+    target: _blank
     weight: 40
