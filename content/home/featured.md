@@ -9,7 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Featured Publications {{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publications/).
+{{% /callout %}}
 subtitle: ""
 
 content:
