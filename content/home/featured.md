@@ -9,10 +9,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications {{% callout note %}}
+title: Featured Publications
+subtitle: {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publications/).
 {{% /callout %}}
-subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
