@@ -10,9 +10,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publications/).
-{{% /callout %}}
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -36,3 +34,6 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publications/).
+{{% /callout %}}
