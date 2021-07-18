@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: [Featured Publications](./publications/)
 subtitle: ""
 
 content:
@@ -34,6 +34,3 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-{{% callout note %}}
-Jump to a full list of [publications](./publications/).
-{{% /callout %}}
