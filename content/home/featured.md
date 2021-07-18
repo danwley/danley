@@ -35,5 +35,5 @@ design:
   view: 3
 ---
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publications/).
+Jump to a full list of [publications](./publications/).
 {{% /callout %}}
