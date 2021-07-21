@@ -76,3 +76,5 @@ image:
 ---
 
 To interpret uncertainty estimates from differentiable probabilistic models, recent work has proposed generating Counterfactual Latent Uncertainty Explanations (CLUEs). However, for a single input, such approaches could output a variety of explanations due to the lack of constraints placed on the explanation. Here we augment the original CLUE approach, to provide what we call δ-CLUE. CLUE indicates one way to change an input, while remaining on the data manifold, such that the model becomes more confident about its prediction. We instead return a set of plausible CLUEs: multiple, diverse inputs that are within a δ ball of the original input in latent space, all yielding confident predictions.
+
+Appeared as a workshop paper at ICLR 2021 (Responsible AI | Secure ML | Robust ML)
