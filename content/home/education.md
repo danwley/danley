@@ -11,16 +11,18 @@ experience:
     date_end: 2021-07-01
     description: |-2
         
-        * Masters project in Explainable AI
-        * Specialisation of Computer and Information Engineering
+        * 1st Year: Class I (87%, 12th of 324)
+        * 2nd Year: Class I (83%, 12th of 310)
+        * 3rd Year: Pass (COVID/No Classing)
+        * 4th Year: Honours Pass with Distinction
+
+        * Masters Project in Explainable AI
+        * Outstanding Project Award for top 5% of students in Information Engineering
         * 1st paper accepted to ICLR workshops (first-author)
         * 2nd paper accepted to ICML workshops (first-author)
+        * Combined paper submitted to NeurIPS conference (under review)
+        * Specialisation of Computer and Information Engineering
         * Dewhurst Scholarship for First and Second Year Results
-
-        * 4th Year: Honours Pass with Distinction
-        * 3rd Year: Pass (COVID/No Classing)
-        * 2nd Year: Class I (83%, 12th of 310)
-        * 1st Year: Class I (87%, 12th of 324)
   - title: A Levels (4A\*s)
     company: Exeter Mathematics School
     company_url: "http://www.exetermathematicsschool.ac.uk/"
