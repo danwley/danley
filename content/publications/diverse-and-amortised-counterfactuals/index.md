@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'https://drive.google.com/file/d/1wd7KPSPTqzVQqqb7IgS0XgwOnANzgsX7/'
 url_code: ''
 url_dataset: ''
-url_poster: '../../posters/diverse-amortised.pdf'
+url_poster: '../../posters/Diverse-Amortised-Poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
