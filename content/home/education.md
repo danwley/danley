@@ -18,7 +18,7 @@ experience:
 
         * Masters Project in Explainable AI
         * Outstanding Project Award for top 5% of students in Information Engineering
-        * 1st paper accepted to ICLR workshops (first-author)
+        * 1st paper accepted to ICLR workshops (first-author, travel award)
         * 2nd paper accepted to ICML workshops (first-author)
         * Combined paper submitted to NeurIPS conference (under review)
         * Specialisation of Computer and Information Engineering
