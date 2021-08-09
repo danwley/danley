@@ -29,12 +29,12 @@ organizations:
     url: https://www.cam.ac.uk/
 education:
   courses:
-    - course: MPhil in Machine Learning
-      institution: University of Cambridge
-      year: 2022
     - course: MEng in Explainable AI
       institution: University of Cambridge
       year: 2021
+    - course: BA in Computer Engineering
+      institution: University of Cambridge
+      year: 2020
 email: ""
 superuser: true
 highlight_name: false
