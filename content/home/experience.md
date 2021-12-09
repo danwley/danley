@@ -23,7 +23,8 @@ experience:
         
         * Continuation of MEng research on explaining uncertainty in deep learning
         * Training models in PyTorch for generation of counterfactual explanations
-        * Exploring the notion of a distribution over counterfactual explanations for a single input and finalising AAAI'22 submission
+        * Exploring the notion of a distribution over counterfactual explanations for a single input
+        * Finalising AAAI'22 submission
   - title: Software Engineer Intern
     company: JPMorgan Chase & Co
     company_url: "https://www.jpmorganchase.com/"
