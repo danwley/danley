@@ -1,5 +1,5 @@
 ---
-title: "Diverse and Amortised Counterfactual Explanations for Uncertainty Estimates"
+title: "Diverse, Global and Amortised Counterfactual Explanations for Uncertainty Estimates"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,11 +23,11 @@ publishDate: "2021-12-07T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ICML Workshop on Algorithmic Recourse*
-publication_short: In *ICML Workshop on Algorithmic Recourse*
+publication: In *Thirty-Sixth AAAI Conference on Artificial Intelligence*
+publication_short: In *Thirty-Sixth AAAI Conference on Artificial Intelligence*
 
 abstract: To interpret uncertainty estimates, we extend recent work that generates multiple Counterfactual Latent Uncertainty Explanations (𝛿-CLUEs), by applying additional constraints for diversity in the optimisation objective (∇-CLUE). We then propose a distinct method for discovering GLobal AMortised CLUEs (GLAM-CLUE) which learns mappings of arbitrary complexity between groups of uncertain and certain groups in a computationally efficient manner.
 
