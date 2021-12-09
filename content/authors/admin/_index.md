@@ -6,8 +6,8 @@ bio: My research interests include explainable/interpretable AI, deep learning
   and software engineering.
 interests:
   - Explainable AI
-  - Deep Learning
   - Algorithmic Recourse
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
