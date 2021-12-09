@@ -11,7 +11,7 @@ experience:
     date_end: ""
     description: |-2
         
-        * Explainable AI research on global counterfactual explanations, implementing a state-of-the-art (NeurIPS) method and identifying inefficiencies, proposing a modified method that executes 8 times faster for the same performance
+        * Explainable AI research on global counterfactual explanations, implementing a state-of-the-art (NeurIPS) method and identifying inefficiencies, proposing a modified method that executes 8 times faster when achieving the same level of performance
   - title: Research Assistant
     company: University of Cambridge
     company_url: "https://www.cam.ac.uk/"
