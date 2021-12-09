@@ -7,7 +7,7 @@ bio: My research interests include explainable/interpretable AI, deep learning
 interests:
   - Explainable AI
   - Deep Learning
-  - Uncertainty Estimation
+  - Algorithmic Recourse
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,8 +39,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I'm a recent graduate of the Cambridge MEng, currently working as a research assistant under the direction of my supervisors [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research has been centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI.
+I'm a recent graduate of the Cambridge MEng, supervised by [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research has been centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI. I am currently working at [JPMorgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence), researching global counterfactual explanations for machine learning models.
 
-Outside of work I'm a regular footballer for the university and enjoy long distance running or working out as part of my week.
+Outside of work I've been a regular footballer for the University of Cambridge, and now coach the Corpus Christi College team. I enjoy long distance running or working out as part of my week.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Dan_Ley.pdf" "newtab" >}}CV{{< /staticref >}} for further details.
