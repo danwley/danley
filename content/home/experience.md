@@ -6,7 +6,7 @@ experience:
     company: JPMorgan Chase & Co
     company_url: "https://www.jpmorganchase.com/"
     company_logo: org-gc
-    location: Cambridge, Cambridgeshire, UK (Work From Home)
+    location: Canary Wharf, London, UK (Work From Home Hybrid)
     date_start: 2021-10-25
     date_end: ""
     description: |-2
