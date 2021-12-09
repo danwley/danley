@@ -43,6 +43,6 @@ I'm a recent graduate of the Cambridge MEng, supervised by [Dr Adrian Weller](ht
 
 Currently, I work at [JPMorgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) under the direction of [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/), researching global counterfactual explanations for machine learning models.
 
-Outside of work I've been a regular footballer for the University of Cambridge, and now coach the Corpus Christi College team. I enjoy long distance running or working out.
+Outside of work I've been a regular footballer for the University of Cambridge, and now coach the Corpus Christi College team. I also enjoy long distance running or working out.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Dan_Ley.pdf" "newtab" >}}CV{{< /staticref >}} for further details.
