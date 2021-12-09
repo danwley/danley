@@ -41,7 +41,7 @@ highlight_name: false
 ---
 I'm a recent graduate of the Cambridge MEng, supervised by [Dr Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research has been centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI.
 
-I currently work for [JPMorgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) under the direction of [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/), researching global counterfactual explanations for machine learning models.
+Currently, I work at [JPMorgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) under the direction of [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/), researching global counterfactual explanations for machine learning models.
 
 Outside of work I've been a regular footballer for the University of Cambridge, and now coach the Corpus Christi College team. I enjoy long distance running or working out as part of my week.
 
