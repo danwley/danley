@@ -2,18 +2,28 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: AI Research Scientist Intern
+    company: JPMorgan Chase & Co
+    company_url: "https://www.jpmorganchase.com/"
+    company_logo: org-gc
+    location: Cambridge, Cambridgeshire, UK (Work From Home)
+    date_start: 2021-10-25
+    date_end: ""
+    description: |-2
+        
+        * Explainable AI research on global counterfactual explanations, implementing a state-of-the-art (NeurIPS) method and identifying inefficiencies, proposing a modified method that executes 8 times faster for the same performance
   - title: Research Assistant
     company: University of Cambridge
     company_url: "https://www.cam.ac.uk/"
     company_logo: org-uoc
     location: Cambridge, Cambridgeshire, UK (Work From Home)
     date_start: 2020-06-28
-    date_end: ""
+    date_end: 2020-09-03
     description: |-2
         
         * Continuation of MEng research on explaining uncertainty in deep learning
         * Training models in PyTorch for generation of counterfactual explanations
-        * Finalising ICLR/ICML/NeurIPS submissions
+        * Exploring the notion of a distribution over counterfactual explanations for a single input and finalising AAAI'22 submission
   - title: Software Engineer Intern
     company: JPMorgan Chase & Co
     company_url: "https://www.jpmorganchase.com/"
