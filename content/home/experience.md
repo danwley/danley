@@ -35,7 +35,7 @@ experience:
     description: |-2
         
         * Object-oriented programming in a finance setting using Python (testing with pytest), Flask, sklearn, tensorflow and SQL
-        * Planned a solution for a disasterrelief charity to port 40% of in-person training to online training and initiated contact with a software-service company to discuss technical and financial details of our solution (£200k+ annual savings proposed)
+        * Planned a solution for a disaster relief charity to port 40% of in-person training to online training and initiated contact with a software-service company to discuss technical and financial details of our solution (£200k+ annual savings proposed)
   - title: Hardware Engineer Intern
     company: Imagination Technologies
     company_url: "https://www.imaginationtech.com/"
