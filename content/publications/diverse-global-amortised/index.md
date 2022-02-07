@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2112.02646.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: '../../posters/Diverse-Global-Amortised-Poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
