@@ -26,8 +26,8 @@ publishDate: "2022-15-04T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *PAIR2Struct Workshop ICLR 2022*
-publication_short: In *PAIR2Struct Workshop ICLR 2022*
+publication: In *ICLR Workshop on Privacy, Accountability, Interpretability, Robustness, Reasoning on Structured Data*
+publication_short: In *ICLR Workshop PAIR2Struct*
 
 abstract: The major shortcoming associated with counterfactual methods is their inability to provide explanations beyond the local or instance-level. While some works touch upon the notion of a global explanation, few provide frameworks that are either reliable or computationally tractable. Meanwhile, practitioners are requesting more efficient and interactive explainability tools. We take this opportunity to investigate existing global methods, with a focus on implementing and improving Actionable Recourse Summaries (AReS), the only known global counterfactual explanation framework for recourse.
 
