@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.dan-ley.com/'
+url_pdf: 'https://openreview.net/pdf?id=Btbgp0dOWZ9'
 url_code: ''
 url_dataset: ''
 url_poster: '../../posters/Global-Counterfactuals.pdf'
