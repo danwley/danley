@@ -77,4 +77,4 @@ image:
 
 To interpret uncertainty estimates, we extend recent work that generates multiple Counterfactual Latent Uncertainty Explanations (𝛿-CLUE), by applying additional constraints for diversity in the optimisation objective (∇-CLUE). We then propose a distinct method for discovering GLobal AMortised CLUEs (GLAM-CLUE) which learns mappings of arbitrary complexity between groups of uncertain and certain groups in a computationally efficient manner.
 
-Appeared as a conference paper at AAAI 2022.
+Published as a conference paper at AAAI 2022.
