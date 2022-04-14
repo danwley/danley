@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2112.02646.pdf'
+url_pdf: 'https://openreview.net/pdf?id=Btbgp0dOWZ9'
 url_code: ''
 url_dataset: ''
 url_poster: '../../posters/Diverse-Global-Amortised-Poster.pdf'
