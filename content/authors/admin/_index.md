@@ -43,6 +43,6 @@ I'm a graduate of the Cambridge MEng, where I was supervised by [Adrian Weller](
 
 Currently, I'm a PhD student at Harvard, supervised by [Hima Lakkaraju](https://himalakkaraju.github.io/), researching post-hoc explanations in AI. I previously worked within [JPMorgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) under the direction of [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/) and [Saumitra Mishra](https://scholar.google.co.uk/citations?user=On6E6ogAAAAJ&hl=en), where I researched new global counterfactual explanations methods and their impact in assessing model fairness.
 
-Outside of work I've been a regular footballer for the University of Cambridge, and coached the Corpus Christi College team. I currently play for MIT FC in the Bay State Soccer League.
+Outside of work I've been a regular footballer for the University of Cambridge, and coached the Corpus Christi College team. I currently play for MIT FC in the BSSL.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Dan_Ley.pdf" "newtab" >}}CV{{< /staticref >}} for further details.
