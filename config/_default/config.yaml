@@ -6,6 +6,9 @@
 title: Dan Ley # Website name
 baseurl: 'https://www.dan-ley.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
+backend:
+  name: github
+  repo: danwley/danley
 
 ############################
 ## LANGUAGE
