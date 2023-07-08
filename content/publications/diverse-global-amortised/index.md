@@ -27,7 +27,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Thirty-Sixth AAAI Conference on Artificial Intelligence*
-publication_short: In *Thirty-Sixth AAAI Conference on Artificial Intelligence*
+publication_short: In *AAAI*
 
 abstract: To interpret uncertainty estimates, we extend recent work that generates multiple Counterfactual Latent Uncertainty Explanations (𝛿-CLUEs), by applying additional constraints for diversity in the optimisation objective (∇-CLUE). We then propose a distinct method for discovering GLobal AMortised CLUEs (GLAM-CLUE) which learns mappings of arbitrary complexity between groups of uncertain and certain groups in a computationally efficient manner.
 
