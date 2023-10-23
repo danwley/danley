@@ -1,6 +1,6 @@
 ---
 title: Dan Ley
-role: MEng Explainable AI
+role: PhD Student
 avatar_filename: avatar.webp
 bio: My research interests include explainable/interpretable AI, deep learning
   and software engineering.
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/dan-ley/
 organizations:
-  - name: University of Cambridge
-    url: https://www.cam.ac.uk/
+  - name: Harvard University
+    url: https://www.harvard.edu/
 education:
   courses:
     - course: MEng in Explainable AI
