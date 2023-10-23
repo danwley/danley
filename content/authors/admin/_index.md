@@ -39,9 +39,9 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I'm a graduate of the Cambridge MEng, where I was supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI.
-
 Currently, I'm a PhD student at Harvard, supervised by [Hima Lakkaraju](https://himalakkaraju.github.io/), researching post-hoc explanations in AI. I previously worked within [JPMorgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) under the direction of [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/) and [Saumitra Mishra](https://scholar.google.co.uk/citations?user=On6E6ogAAAAJ&hl=en), where I researched new global counterfactual explanations methods and their impact in assessing model fairness.
+
+I'm a graduate of the Cambridge MEng, where I was supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI.
 
 Outside of work I've been a regular footballer for the University of Cambridge, and coached the Corpus Christi College team. I currently play for MIT FC in the BSSL.
 
