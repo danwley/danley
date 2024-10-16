@@ -39,10 +39,12 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Currently, I'm a PhD student at Harvard, supervised by [Hima Lakkaraju](https://himalakkaraju.github.io/), researching trustworthy ML. My current interests include [attributing value to data](https://arxiv.org/abs/2410.09940) and [faithful reasoning in LLMs](https://arxiv.org/abs/2406.10625). I previously worked within [JPMorgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) under the direction of [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/) and [Saumitra Mishra](https://scholar.google.co.uk/citations?user=On6E6ogAAAAJ&hl=en), where I researched new global counterfactual explanations methods and their impact in assessing model fairness.
+Currently, I'm a PhD student at Harvard, supervised by [Hima Lakkaraju](https://himalakkaraju.github.io/), researching trustworthy ML. My current interests include [efficient data attribution techniques](https://arxiv.org/abs/2410.09940) and [faithful reasoning in LLMs](https://arxiv.org/abs/2406.10625) [preprints].
 
-I'm a graduate of the Cambridge MEng, where I was supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research centered around providing meaningful explanations for uncertainty estimates within deep learning, as part of the broader field of explainable AI.
+I previously worked within [JPMorgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) under the direction of [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/) and [Saumitra Mishra](https://scholar.google.co.uk/citations?user=On6E6ogAAAAJ&hl=en), where I researched new [global counterfactual explanation methods](https://dl.acm.org/doi/10.5555/3618408.3619205) and their impact in assessing model fairness [ICML 2023].
 
-Outside of work I've been a regular footballer for the University of Cambridge, and coached the Corpus Christi College team. I currently play for MIT FC in the BSSL.
+I'm a graduate of the Cambridge MEng, where I was supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research centered around providing meaningful [explanations for uncertainty estimates](https://ojs.aaai.org/index.php/AAAI/article/view/20702) from probabilistic models [AAAI 2022]
+
+Outside of work I've been a regular footballer, played for the University of Cambridge 1st team, coached the Corpus Christi College team, and currently play competitively for MIT FC in the BSSL.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Dan_Ley.pdf" "newtab" >}}CV{{< /staticref >}} for further details.
