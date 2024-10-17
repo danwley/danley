@@ -6,7 +6,7 @@ title: "OpenXAI: Towards a Transparent Evaluation of Model Explanations"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Chirag Agarwal
-- Dan Ley
+- admin
 - Satyapriya Krishna
 - Eshika Saxena
 - Martin Pawelczyk
@@ -34,7 +34,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *NeurIPS*
-publication_short: In *NeurIPS 2022 (arXiv 2024 v5)*
+publication_short: In *NeurIPS*
 
 abstract: ""
 

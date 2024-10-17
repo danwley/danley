@@ -6,7 +6,7 @@ title: "On the Hardness of Faithful Chain-of-Thought Reasoning in Large Language
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Sree Harsha Tanneru
-- Dan Ley
+- admin
 - Chirag Agarwal
 - Himabindu Lakkaraju
 
