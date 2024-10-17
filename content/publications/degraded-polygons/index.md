@@ -1,23 +1,23 @@
 ---
-title: "GLOBE-CE: A Translation-Based Approach for Global Counterfactual Explanations"
+title: "Degraded Polygons Raise Fundamental Questions of Neural Network Perception"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Leonard Tang
 - admin
-- Saumitra Mishra
-- Daniele Magazzeni
 
 # Author notes (optional)
 author_notes:
 - "First author"
+- "First author"
 
-date: "2023-07-07T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-04-13T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +26,13 @@ publishDate: "2023-04-13T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Machine Learning*
-publication_short: In *ICML*
+publication: In *NeurIPS*
+publication_short: In *NeurIPS*
 
-abstract: The major shortcoming associated with counterfactual methods is their inability to provide explanations beyond the local or instance-level.  We take this opportunity to propose Global & Efficient Counterfactual Explanations (GLOBE-CE), a flexible framework that tackles the reliability and scalability issues associated with current state-of-the-art, particularly on higher dimensional datasets and in the presence of continuous features. Furthermore, we provide a unique mathematical analysis of categorical feature translations, utilising it in our method.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: The major shortcoming associated with counterfactual methods is their inability to provide explanations beyond the local or instance-level.  We take this opportunity to propose Global & Efficient Counterfactual Explanations (GLOBE-CE), a flexible framework that tackles the reliability and scalability issues associated with current state-of-the-art, particularly on higher dimensional datasets and in the presence of continuous features. Furthermore, we provide a unique mathematical analysis of categorical feature translations, utilising it in our method.
+summary: 
 
 tags: []
 
