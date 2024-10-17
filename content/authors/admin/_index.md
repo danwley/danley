@@ -5,9 +5,9 @@ avatar_filename: avatar.webp
 bio: My research interests include explainable/interpretable AI, deep learning
   and software engineering.
 interests:
-  - Explainable AI
-  - Algorithmic Recourse
-  - Deep Learning
+  - Data Attribution
+  - Reasoning in LLMs
+  - Interpretability / Explainability
 social:
   - icon: envelope
     icon_pack: fas
