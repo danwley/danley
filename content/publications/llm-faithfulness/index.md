@@ -28,8 +28,8 @@ publishDate: "2024-05-13T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint (under review)
-publication_short: Preprint (under review)
+publication: 
+publication_short: Preprint
 
 abstract: ""
 

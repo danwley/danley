@@ -1,5 +1,5 @@
 ---
-title: "On Minimizing the Impact of Dataset Shifts on Actionable Explanations"
+title: "Generalized Group Data Attribution"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -14,7 +14,7 @@ authors:
 
 # Author notes (optional)
 
-date: "2023-08-13T00:00:00Z"
+date: "2024-10-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,11 +24,11 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: In *UAI (Oral, Top 5%)*
+publication_short: Preprint
 
 abstract: ""
 
@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openreview.net/pdf?id=Imej02h5Gm'
+url_pdf: 'https://arxiv.org/abs/2410.09940'
 url_code: ''
 url_dataset: ''
 url_poster: ''
