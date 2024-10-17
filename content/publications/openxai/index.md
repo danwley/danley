@@ -31,7 +31,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *NeurIPS*
-publication_short: In *NeurIPS*
+publication_short: In *NeurIPS 2022 (arXiv 2024 v5)*
 
 abstract: ""
 
