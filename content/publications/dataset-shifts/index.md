@@ -44,7 +44,7 @@ featured: false
 
 # Custom links
 
-url_pdf: 'https://proceedings.mlr.press/v216/meyer23a/meyer23a.pdf'
+url_pdf: 'https://arxiv.org/pdf/2306.06716'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -60,3 +60,6 @@ image:
   preview_only: false
 ---
 
+The Right to Explanation is an important regulatory principle that allows individuals to request actionable explanations for algorithmic decisions. However, several technical challenges arise when providing such actionable explanations in practice. For instance, models are periodically retrained to handle dataset shifts. This process may invalidate some of the previously prescribed explanations, thus rendering them unactionable. But, it is unclear if and when such invalidations occur, and what factors determine explanation stability i.e., if an explanation remains unchanged amidst model retraining due to dataset shifts. In this paper, we address the aforementioned gaps and provide one of the first theoretical and empirical characterizations of the factors influencing explanation stability. To this end, we conduct rigorous theoretical analysis to demonstrate that model curvature, weight decay parameters while training, and the magnitude of the dataset shift are key factors that determine the extent of explanation (in)stability. Extensive experimentation with real-world datasets not only validates our theoretical results, but also demonstrates that the aforementioned factors dramatically impact the stability of explanations produced by various state-of-the-art methods.
+
+Published as a conference paper at UAI 2023 (Oral, Top 5%).

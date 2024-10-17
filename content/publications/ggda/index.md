@@ -6,13 +6,14 @@ title: "Generalized Group Data Attribution"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Leonard Tang
-- Matthew Nazari
-- Hongjin Lin
+- Shichang Zhang
 - Suraj Srinivas
+- Gili Rusak
 - Himabindu Lakkaraju
 
 # Author notes (optional)
+author_notes:
+- "First author"
 
 date: "2024-10-12T00:00:00Z"
 doi: ""
@@ -45,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2410.09940'
+url_pdf: 'https://arxiv.org/pdf/2410.09940'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -76,3 +77,6 @@ image:
 #slides: example
 ---
 
+Data Attribution (DA) methods quantify the influence of individual training data points on model outputs and have broad applications such as explainability, data selection, and noisy label identification. However, existing DA methods are often computationally intensive, limiting their applicability to large-scale machine learning models. To address this challenge, we introduce the Generalized Group Data Attribution (GGDA) framework, which computationally simplifies DA by attributing to groups of training points instead of individual ones. GGDA is a general framework that subsumes existing attribution methods and can be applied to new DA techniques as they emerge. It allows users to optimize the trade-off between efficiency and fidelity based on their needs. Our empirical results demonstrate that GGDA applied to popular DA methods such as Influence Functions, TracIn, and TRAK results in upto 10x-50x speedups over standard DA methods while gracefully trading off attribution fidelity. For downstream applications such as dataset pruning and noisy label identification, we demonstrate that GGDA significantly improves computational efficiency and maintains effectiveness, enabling practical applications in large-scale machine learning scenarios that were previously infeasible.
+
+Preprint (under review).
