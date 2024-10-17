@@ -13,7 +13,7 @@ author_notes:
 - "First author"
 - "First author"
 
-date: ""
+date: "2023-08-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
