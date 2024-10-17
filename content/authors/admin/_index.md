@@ -41,7 +41,7 @@ highlight_name: false
 ---
 Currently, I'm a PhD student at Harvard, supervised by [Hima Lakkaraju](https://himalakkaraju.github.io/), researching trustworthy ML. My current interests include [efficient data attribution techniques](https://arxiv.org/abs/2410.09940) and [faithful reasoning in LLMs](https://arxiv.org/abs/2406.10625).
 
-I previously worked within [JPMorgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) under the direction of [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/) and [Saumitra Mishra](https://scholar.google.co.uk/citations?user=On6E6ogAAAAJ&hl=en), where I researched new [global counterfactual explanation methods](https://proceedings.mlr.press/v202/ley23a.html) and their impact in assessing model fairness.
+I previously worked within JPMorgan AI Research under the direction of [Daniele Magazzeni](https://nms.kcl.ac.uk/daniele.magazzeni/) and [Saumitra Mishra](https://scholar.google.co.uk/citations?user=On6E6ogAAAAJ&hl=en), where I researched new [global counterfactual explanation methods](https://proceedings.mlr.press/v202/ley23a.html) and their impact in assessing model fairness.
 
 I'm a graduate of the Cambridge MEng, where I was supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) and [Umang Bhatt](https://umangsbhatt.github.io/). My research centered around providing meaningful [explanations for uncertainty estimates](https://ojs.aaai.org/index.php/AAAI/article/view/20702) from probabilistic models.
 
