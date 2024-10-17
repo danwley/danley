@@ -29,7 +29,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: 
-publication_short: Preprint
+publication_short: In *ICML Workshop on Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)*
 
 abstract: ""
 
