@@ -16,7 +16,6 @@ authors:
 - Himabindu Lakkaraju
 
 # Author notes (optional)
-author_notes:
 
 date: "2024-01-13T00:00:00Z"
 doi: ""
@@ -34,10 +33,10 @@ publication_types: ["1"]
 publication: In *NeurIPS*
 publication_short: In *NeurIPS*
 
-abstract: 
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ""
 
 tags: []
 

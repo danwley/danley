@@ -11,7 +11,6 @@ authors:
 - Himabindu Lakkaraju
 
 # Author notes (optional)
-author_notes: 
 
 date: "2024-05-13T00:00:00Z"
 doi: ""
@@ -29,10 +28,10 @@ publication_types: ["1"]
 publication: Preprint (under review)
 publication_short: Preprint (under review)
 
-abstract: 
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ""
 
 tags: []
 
