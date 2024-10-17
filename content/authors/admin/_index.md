@@ -6,7 +6,7 @@ bio: My research interests include explainable/interpretable AI, deep learning
   and software engineering.
 interests:
   - Data Attribution
-  - Reasoning in LLMs
+  - LLM Reasoning
   - Interpretability / Explainability
 social:
   - icon: envelope
