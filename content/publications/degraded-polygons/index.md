@@ -44,10 +44,10 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2305.17021.pdf'
+url_pdf: 'https://arxiv.org/pdf/2306.04955'
 url_code: ''
 url_dataset: ''
-url_poster: '../../posters/GLOBE-CE-Poster.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -75,6 +75,6 @@ image:
 #slides: example
 ---
 
-Counterfactual explanations (CEs) have been widely studied in explainability, though the major shortcoming associated with these methods, is their inability to provide explanations beyond the instance-level. While many works touch upon the notion of a global explanation, typically suggesting to aggregate masses of local explanations, few provide frameworks that are both reliable and computationally tractable. We take this opportunity to propose Global & Efficient Counterfactual Explanations (GLOBE-CE), a flexible framework that tackles the reliability and scalability issues associated with current state-of-the-art, particularly on higher dimensional datasets and in the presence of continuous features. Our framework permits GCEs to have variable magnitudes while preserving a fixed translation direction, to mitigate the commonly accepted trade-off between coverage and cost. Furthermore, we provide a unique mathematical analysis of categorical feature translations, utilising it in our method. Experimental evaluation demonstrates improved performance across multiple metrics (e.g., speed, reliability).
+It is well-known that modern computer vision systems often exhibit behaviors misaligned with those of humans: from adversarial attacks to image corruptions, deep learning vision models suffer in a variety of settings that humans capably handle. In light of these phenomena, here we introduce another, orthogonal perspective studying the human-machine vision gap. We revisit the task of recovering images under degradation, first introduced over 30 years ago in the Recognition-by-Components theory of human vision. Specifically, we study the performance and behavior of neural networks on the seemingly simple task of classifying regular polygons at varying orders of degradation along their perimeters. To this end, we implement the Automated Shape Recoverability Test for rapidly generating large-scale datasets of perimeter-degraded regular polygons, modernizing the historically manual creation of image recoverability experiments. We then investigate the capacity of neural networks to recognize and recover such degraded shapes when initialized with different priors. Ultimately, we find that neural networks' behavior on this simple task conflicts with human behavior, raising a fundamental question of the robustness and learning capabilities of modern computer vision models.
 
-Published as a conference paper at ICML 2023.
+Published as a conference paper at NeurIPS 2023 (Datasets & Benchmarks Track).
