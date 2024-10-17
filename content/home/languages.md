@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: "hk"
-  icon_pack: "custom"
-  name: "Cantonese"
-  description: "Passive Fluency"
 - description: Full Fluency
   icon: hk
   icon_pack: custom
   name: English
-- description: Level B2
+- description: Passive Fluency
+  icon: hk
+  icon_pack: custom
+  name: Cantonese
+- description: Conversational
   icon: es
   icon_pack: custom
   name: Spanish
+- description: Conversational
+  icon: es
+  icon_pack: custom
+  name: French
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
