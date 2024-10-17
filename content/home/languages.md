@@ -16,14 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Full Fluency
-  icon: hk
-  icon_pack: custom
-  name: English
 - description: Passive Fluency
   icon: hk
   icon_pack: custom
   name: Cantonese
+- description: Full Fluency
+  icon: hk
+  icon_pack: custom
+  name: English
 - description: Conversational
   icon: es
   icon_pack: custom
