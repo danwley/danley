@@ -27,11 +27,7 @@ feature:
 - description: Conversational
   icon: es
   icon_pack: custom
-  name: Spanish
-- description: Conversational
-  icon: es
-  icon_pack: custom
-  name: French
+  name: Spanish/French
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
